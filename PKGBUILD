@@ -64,4 +64,4 @@ package() {
  make install
 }
 
-# vim: tabstop=1
+# vim: tabstop=1 expandtab
