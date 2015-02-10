@@ -1,2 +1,4 @@
 # libgccjit-aur
-Arch Linux (pacman) packages for libgccjit.
+PKGBUILD script for installing libgccjit on Arch Linux.
+
+See <https://github.com/jashandeep-sohi/libgccjit-aur/releases> for pre-built packages.
