@@ -23,7 +23,6 @@ depends=(
  'glibc'
 )
 makedepends=(
- 'git'
  'binutils'
  'gcc-ada'
  'libmpc'
