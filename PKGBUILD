@@ -24,6 +24,7 @@ arch=(
 )
 depends=(
  'glibc'
+ 'isl>=0.14'
 )
 makedepends=(
  'binutils'
